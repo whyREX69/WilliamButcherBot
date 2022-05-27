@@ -42,7 +42,7 @@ BOT_TOKEN = "5189246830:AAEVwFNM_4jtpYSrAw0ntw8oFfXJy0kYNsY"
     MESSAGE_DUMP_CHAT = -1001706596784
     WELCOME_DELAY_KICK_SEC = 300
     MONGO_URL = "mongodb+srv://vcbot:vcbot@cluster0.dnn8y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-    ARQ_API_KEY = "CENWFE-IQFMCB-VGTHJX-SNQRXR-ARQ" Get this from @ARQRobot"
+    ARQ_API_KEY = CENWFE-IQFMCB-VGTHJX-SNQRXR-ARQ "Get this from @ARQRobot"
     ARQ_API_URL = "https://arq.hamker.in"
     LOG_MENTIONS = True
     RSS_DELAY = 300  # In seconds
